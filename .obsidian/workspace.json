@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "31ab10c2a8beac20",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "026b825dd1da96a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b099fee22a03af11",
@@ -167,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Set up github for obsidian"
             }
+          },
+          {
+            "id": "96e2c73698a4c89f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +181,7 @@
   },
   "active": "bcd224a4dc545a14",
   "lastOpenFiles": [
+    "Pull git in termux.md",
     "Set up github for obsidian.md"
   ]
 }
